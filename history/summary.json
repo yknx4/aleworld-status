@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 219,
-    "timeDay": 169,
-    "timeWeek": 228,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 184,
+    "timeWeek": 231,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2021-07-02": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/techstack.news",
     "slug": "tech-stack-news",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 146,
-    "timeDay": 123,
-    "timeWeek": 175,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 145,
+    "timeDay": 120,
+    "timeWeek": 176,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2021-07-02": 19
     }
