@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ale.world",
     "slug": "ale-world",
     "status": "down",
-    "uptime": "35.74%",
+    "uptime": "35.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "32.87%",
     "time": 361,
-    "timeDay": 89,
-    "timeWeek": 246,
-    "timeMonth": 304,
+    "timeDay": 444,
+    "timeWeek": 289,
+    "timeMonth": 300,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2022-07-10": 16,
+      "2022-07-11": 12,
+      "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
@@ -267,8 +268,7 @@
       "2021-07-15": 1440,
       "2021-07-14": 1440,
       "2021-07-13": 1440,
-      "2021-07-12": 1440,
-      "2021-07-11": 1440
+      "2021-07-12": 1440
     }
   },
   {
@@ -277,7 +277,7 @@
     "icon": "https://favicons.githubusercontent.com/techstack.news",
     "slug": "tech-stack-news",
     "status": "down",
-    "uptime": "36.68%",
+    "uptime": "36.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -288,7 +288,8 @@
     "timeMonth": 0,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-07-10": 16,
+      "2022-07-11": 12,
+      "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
@@ -539,8 +540,7 @@
       "2021-07-15": 1440,
       "2021-07-14": 1440,
       "2021-07-13": 1440,
-      "2021-07-12": 1440,
-      "2021-07-11": 1440
+      "2021-07-12": 1440
     }
   }
 ]
