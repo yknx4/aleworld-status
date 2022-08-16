@@ -1,7 +1,7 @@
 url: https://www.ale.world
-status: up
-code: 200
-responseTime: 358
-lastUpdated: 2022-08-16T15:51:02.458Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2022-08-16T17:31:38.858Z
 startTime: Wed Jun 16 2021 17:42:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
