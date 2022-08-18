@@ -4,7 +4,7 @@
     "url": "https://www.ale.world",
     "icon": "https://favicons.githubusercontent.com/www.ale.world",
     "slug": "ale-world",
-    "status": "down",
+    "status": "up",
     "uptime": "33.01%",
     "uptimeDay": "82.19%",
     "uptimeWeek": "34.97%",
@@ -16,7 +16,7 @@
     "timeMonth": 357,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-08-18": 144,
+      "2022-08-18": 164,
       "2022-08-17": 274,
       "2022-08-16": 270,
       "2022-08-15": 899,
@@ -288,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-08-18": 790,
+      "2022-08-18": 810,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
