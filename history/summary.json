@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
     "time": 386,
-    "timeDay": 394,
-    "timeWeek": 500,
+    "timeDay": 474,
+    "timeWeek": 439,
     "timeMonth": 466,
     "timeYear": 396,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/techstack.news.ico",
     "slug": "tech-stack-news",
     "status": "down",
-    "uptime": "28.70%",
+    "uptime": "28.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -53,7 +53,8 @@
     "timeMonth": 0,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-10-26": 15,
+      "2022-10-27": 16,
+      "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
@@ -340,8 +341,7 @@
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
-      "2021-10-28": 1440,
-      "2021-10-27": 1440
+      "2021-10-28": 1440
     }
   }
 ]
