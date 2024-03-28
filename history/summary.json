@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ale.world.ico",
     "slug": "ale-world",
     "status": "down",
-    "uptime": "56.61%",
+    "uptime": "56.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 426,
-    "timeDay": 285,
-    "timeWeek": 427,
-    "timeMonth": 481,
-    "timeYear": 445,
+    "timeDay": 356,
+    "timeWeek": 403,
+    "timeMonth": 468,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-03-27": 12,
+      "2024-03-28": 12,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -379,8 +380,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/techstack.news.ico",
     "slug": "tech-stack-news",
     "status": "down",
-    "uptime": "14.04%",
+    "uptime": "14.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 185,
-    "timeDay": 154,
-    "timeWeek": 188,
-    "timeMonth": 201,
+    "timeDay": 157,
+    "timeWeek": 173,
+    "timeMonth": 204,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-03-27": 12,
+      "2024-03-28": 12,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -763,8 +764,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   }
 ]
