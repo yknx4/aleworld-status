@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ale.world.ico",
     "slug": "ale-world",
     "status": "down",
-    "uptime": "42.40%",
+    "uptime": "42.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 598,
-    "timeDay": 331,
-    "timeWeek": 1243,
-    "timeMonth": 724,
-    "timeYear": 648,
+    "timeDay": 430,
+    "timeWeek": 1164,
+    "timeMonth": 719,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-03-01": 1381,
+      "2025-03-02": 18,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -379,8 +380,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -390,17 +390,17 @@
     "slug": "tech-stack-news",
     "status": "up",
     "uptime": "10.57%",
-    "uptimeDay": "67.23%",
-    "uptimeWeek": "9.60%",
-    "uptimeMonth": "10.17%",
-    "uptimeYear": "0.18%",
-    "time": 214,
-    "timeDay": 786,
-    "timeWeek": 596,
-    "timeMonth": 369,
-    "timeYear": 226,
+    "uptimeDay": "73.09%",
+    "uptimeWeek": "10.44%",
+    "uptimeMonth": "10.36%",
+    "uptimeYear": "0.20%",
+    "time": 215,
+    "timeDay": 720,
+    "timeWeek": 598,
+    "timeMonth": 371,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-03-01": 413,
+      "2025-03-01": 405,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -763,8 +763,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   }
 ]
