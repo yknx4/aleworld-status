@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ale.world.ico",
     "slug": "ale-world",
     "status": "down",
-    "uptime": "37.52%",
+    "uptime": "37.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 643,
-    "timeDay": 857,
-    "timeWeek": 895,
-    "timeMonth": 702,
-    "timeYear": 569,
+    "time": 645,
+    "timeDay": 1354,
+    "timeWeek": 861,
+    "timeMonth": 727,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-08-25": 19,
+      "2025-08-26": 18,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -379,8 +380,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   }
 ]
